@@ -8,7 +8,6 @@
 
 ### Maven ###
 target/
-!target/vulas
 pom.xml.versionsBackup
 #############
 
